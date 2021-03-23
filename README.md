@@ -35,5 +35,7 @@ INSTRUCTOR: Çağlar SUBAŞI
 GROUP MEMBERS:
 
 Günnur GÜNEŞ
+
 Eda AYDIN
+
 Enes KÖSER
