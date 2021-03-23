@@ -28,3 +28,12 @@ Target Class (Rain Tomorrow): 110316 No - 31877 Yes
 Data Source: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 Rain in Australia
+Via kodluyoruz
+
+INSTRUCTOR: Çağlar SUBAŞI
+
+GROUP MEMBERS:
+
+Günnur GÜNEŞ
+Eda AYDIN
+Enes KÖSER
